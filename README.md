@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arishkhan54
+- 👋 Hi, I’m arishkhan54
 
-- 👀 I’m interested in Software Developer 
+- 👀 I’m interested in Software Developement 
 
-- 🌱 I've learned C/C++, And I'm Learning Java programming Language 
+- 🌱 I've learned C|C++|Java|Spring Boot|React|Angular
 
 <!---
 
